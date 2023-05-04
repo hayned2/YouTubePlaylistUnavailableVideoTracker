@@ -30,7 +30,7 @@ Once you have this information, you insert it into your ```playlists.json``` fil
 
 ### **Getting your Google API Key**
 
-In order to communicate with the Google servers to get the information for your playlists, you need an access key. To get an access key, which can be given to anyone with a valid Google account.
+In order to communicate with the Google servers to get the information for your playlists, you need an access key, which can be given to anyone with a valid Google account.
 
 There is a guide on getting API Keys [here](https://cloud.google.com/docs/authentication/api-keys).
 
