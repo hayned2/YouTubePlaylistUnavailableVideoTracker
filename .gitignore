@@ -1,2 +1,5 @@
+.gitignore
 Snapshots/
 private.txt
+playlists.json
+googleAPIKey.txt
